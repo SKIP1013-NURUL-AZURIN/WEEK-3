@@ -1,0 +1,36 @@
+Please enter name : 
+azurin
+Please enter balance  : 
+23450
+Please enter amount : 
+234
+Your current balance is RM 23216.0
+Do you want to proceed :Y-YES N-NO 
+Y
+YES
+N
+NO
+Please enter amount 1 : 
+10
+Please enter amount 2 : 
+20
+Please enter amount 3 : 
+30
+Please enter amount 4 : 
+40
+Please enter amount 5 : 
+50
+Please enter amount 6 : 
+60
+Amount 1 : 10
+Amount 2 : 20
+Amount 3 : 30
+Amount 4 : 40
+Amount 5 : 50
+Amount 6 : 60
+The sum is  210
+The average is 35.0
+The divider for number 8 with number 7 is 1.17 
+The divider for number 10 with number 9 is 1.13
+The multiplication is 3.187755648E16
+The ans for play is 6.00 
